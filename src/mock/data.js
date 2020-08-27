@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne:
     'I am a Software Engineer based out of Los Angeles, CA.  I am currently employed as an Application Developer at UCLA. I graduated with a Master of Science degree in Applied Computer Science. I also graduated with a Bacbelor of Science in Information Technology.',
   paragraphTwo:
-    'Some of the technologies I am currently working with are: HTML/CSS, JavaScript, Angular, React, .NET Core, C#, and SQL Server.',
+    'Some of the technologies I am currently working with are: HTML, CSS, JavaScript, Angular, React, .NET Core, C#, and SQL Server.',
   paragraphThree: ' ',
   resume: '', // if no resume, the button will not show up
 };
@@ -34,7 +34,7 @@ export const projectsData = [
     title: 'Recipe Vault',
     info:
       'Recipe Vault is a website where users can create recipes, share them with friends, or view recipes created by others.',
-    info2: 'Angular | .NET Core | C# | Angular Material | SQL Server | Azure | HTML/CSS/JavaScript',
+    info2: 'Angular | .NET Core | C# | Angular Material | SQL Server | Azure',
     url: 'https://recipevault20200818160828.azurewebsites.net/',
     repo: 'https://github.com/cjmcquain/RecipeVault', // if no repo, the button will not show up
   } /*
